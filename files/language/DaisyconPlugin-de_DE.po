@@ -1,0 +1,1017 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: affiliate-marketing-xml-product-feed-importer-for-daisycon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-27 11:31+0100\n"
+"PO-Revision-Date: 2013-06-04 12:06+0100\n"
+"Last-Translator: Danny Smit <d.smit@daisycon.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core.php:80
+msgid "Het programma is bijgewerkt!"
+msgstr "Das Programm wurde aktualisiert!"
+
+#: core.php:230
+#: core.php:455
+#: core.php:749
+#: daisycon.php:52
+msgid "Programma&lsquo;s"
+msgstr "Programme"
+
+#: core.php:231
+msgid "Plak de shorttag(s) in een pagina of blogpost. Het programma wordt automatisch op deze pagina getoond. Je kan per programma kiezen tussen een shorttag met de lange of met een korte omschrijving. Die kan je zelf invullen door op het programma te klikken. Hier kan je ook links aanpassen, de categorie wijzigen of het programma uit het overzicht halen.<br /><br />Gebruik de \"shorttag voor actiecode\" om alle actiecodes van die adverteerder direct op je website te plaatsen.<br /><br /> Druk op \"Producten ophalen\" om de producten uit de productfeed van deze adverteerder op te halen. Hier kan je ook de individuele feeds updaten.  <br /><br />"
+msgstr "Paste den/die Short Tag(s) im HTML Ihrer Seite oder Blog Post. Das Programmer wird automatisch auf der Seite gezeigt. Pro Programm können Sie zwischen einer kurzen oder einer langen Beschreibung wählen. Sie können den Text bearbeiten nachdem Sie auf dem Programm Name geklickt haben. Hier können Sie auch die Links bearbeiten, die Kategorien ändern, oder das ganze Programm verbergen."
+
+#: core.php:236
+msgid "Alles tonen"
+msgstr "Alles zeigen"
+
+#: core.php:247
+#: core.php:1871
+msgid "Zoeken"
+msgstr "Suchen"
+
+#: core.php:257
+msgid "Gekozen producten ophalen"
+msgstr "Selektierte Produkte herunterladen"
+
+#: core.php:271
+#: cron/importProducts.php:26
+msgid "Programma"
+msgstr "Programm"
+
+#: core.php:274
+msgid "Shorttag voor korte omschrijving"
+msgstr "Shorttag kurz Beschreibung"
+
+#: core.php:277
+msgid "Shorttag voor Actiecode"
+msgstr "Shorttag für Gutscheincode"
+
+#: core.php:280
+msgid "Datum producten opgehaald"
+msgstr "Datum an dem die Produkte heruntergeladen wurden"
+
+#: core.php:283
+#: core.php:356
+#: core.php:608
+#: core.php:1792
+#: core.php:1916
+#: cron/importProducts.php:19
+msgid "Producten ophalen"
+msgstr "Produkte herunterladen"
+
+#: core.php:286
+msgid "Selecteer de programmas waarvan jij de producten wilt opnemen"
+msgstr "Wählen Sie die Produkte die Sie gebrauchen möchten"
+
+#: core.php:335
+#: core.php:342
+msgid "Niet opgehaald"
+msgstr "Nicht heruntergeladen"
+
+#: core.php:354
+msgid "Producten updaten"
+msgstr "Produkte aktualisieren"
+
+#: core.php:364
+msgid "Geen producten"
+msgstr "Keine Produkte"
+
+#: core.php:446
+msgid "Nog niet volledig ge&uuml;pdatet"
+msgstr "Noch nicht vollständig aktualisiert"
+
+#: core.php:452
+msgid "Programma wijzigen"
+msgstr "Programm ändern"
+
+#: core.php:462
+msgid "Programmanaam"
+msgstr "Programmname"
+
+#: core.php:470
+msgid "Informatie"
+msgstr "Information"
+
+#: core.php:481
+msgid "Aantal producten opgehaald:"
+msgstr "Zahl der heruntergeladene Produkte:"
+
+#: core.php:482
+msgid "Laatst producten opgehaald:"
+msgstr "Letztes Mal dass die Produkte heruntergeladen wurden:"
+
+#: core.php:485
+msgid "Niet mogelijk om producten te importeren"
+msgstr "Produkte importieren nicht möglich"
+
+#: core.php:496
+msgid "Korte omschrijving"
+msgstr "Kurze Umschreibung"
+
+#: core.php:498
+msgid "Deze tekst komt op de categoriepagina. Je kan zelf de link aanpassen en bijvoorbeeld ook naar een pagina binnen je site linken."
+msgstr "Dieser Text wird auf der Kategorie Seite benutzt. Sie können den Link anpassen und zum Beispiel einen internen Link platzieren"
+
+#: core.php:505
+msgid "Uitgebreide omschrijving"
+msgstr "Lange Umschreibung"
+
+#: core.php:507
+msgid "Deze tekst komt op de programmapagina"
+msgstr "Dieser Text wird auf der Programm Seite benutzt"
+
+#: core.php:514
+#: core.php:689
+#: core.php:740
+#: core.php:1845
+msgid "Categorie"
+msgstr "Kategorie"
+
+#: core.php:516
+msgid "Hier kan je dit programma in een andere categorie plaatsen."
+msgstr "Hier können Sie das Programm in einer anderen Kategorie setzen."
+
+#: core.php:533
+msgid "Affiliatelink"
+msgstr "Affiliate Link"
+
+#: core.php:535
+msgid "Deze link wordt gebruikt om via het logo naar de adverteerder te linken. Je kan zelf een SubID toevoegen."
+msgstr "Dieser Link wird benutzt um über dem Logo zum Advertiser zu linken. Sie können selbst eine Sub ID zufügen."
+
+#: core.php:543
+msgid "Productfeed link"
+msgstr "Product Feed Link"
+
+#: core.php:545
+msgid "De productfeed link wordt gebruikt om de producten op te halen en in de database te zetten. Vul indien gewenst in het tweede veld de SubID in."
+msgstr "Der Product Feed Link wird benutzt um die Produkte von diesem Advertiser herunterzuladen. Wenn gewünscht, können Sie eine Sub ID zufügen"
+
+#: core.php:553
+msgid "Datum"
+msgstr "Datum  "
+
+#: core.php:590
+msgid "De eCPC wordt berekend op basis de omzet van de laatste twee maanden in jouw account."
+msgstr "Der eCPC wird berechnet aufgrund des Umsatz Ihres Accounts, von den letzten zwei Monaten."
+
+#: core.php:597
+#: core.php:705
+#: widgets/newPrograms.php:31
+#: widgets/newPrograms.php:37
+#: widgets/randomPrograms.php:32
+#: widgets/randomPrograms.php:38
+#: widgets/topPrograms.php:32
+#: widgets/topPrograms.php:38
+msgid "Zichtbaar"
+msgstr "Sichtbar"
+
+#: core.php:599
+msgid "Gebruik deze optie om een programma niet zichtbaar te maken. Indien deze optie is aangevinkt zal er een tekst weergegeven worden dat het programma niet meer beschikbaar is."
+msgstr "Gebrauchen sie diese Option um ein Programm zu verbergen. Wenn Sie diese Option wählen, wird ein Text gezeicht, dass dieses Programm nicht länger vorhanden ist."
+
+#: core.php:610
+msgid "Gebruik deze optie om de producten van het programma op te halen als de actie \"Alle producten van alle programmas\" wordt gekozen."
+msgstr "Gebrauchen Sie diese Möglichkeit um die Produkte des Programms herunterzuladen wenn die Aktion\"Alle Produkte von alle Programme\"gewählt wird."
+
+#: core.php:617
+#: core.php:713
+#: core.php:1244
+#: core.php:3599
+msgid "Opslaan"
+msgstr "Speichern"
+
+#: core.php:623
+#: core.php:716
+msgid "Terug"
+msgstr "Zurück"
+
+#: core.php:657
+msgid "De categorie is bijgewerkt!"
+msgstr "Die Kategorie wurde aktualisiert"
+
+#: core.php:680
+msgid "Categorie wijzigen"
+msgstr "Kategorie ändern"
+
+#: core.php:697
+msgid "Categorie naam"
+msgstr "Kategorie Name"
+
+#: core.php:733
+#: daisycon.php:56
+msgid "Categorie&euml;n"
+msgstr "Kategorien"
+
+#: core.php:734
+msgid "Plak onderstaande shorttag op een pagina of in een blogpost en de categorie wordt getoond. Vul achter &lsquo;amount&lsquo; tussen de aanhalingstekens het aantal programma&lsquo;s in dat je wil tonen. Vul je niets in, dan worden alle programma&lsquo;s getoond. De volgorde wordt bepaald obv eCPC (dit moet je wel aanzetten bij Instellingen)."
+msgstr "Pasten Sie den Short Tag im HTML einer Seite oder Blogpost und alle Programme in dieser Kategorie werden automatisch gezeigt auf Ihrer Website. Tragen sie nach 'Anzahl' zwischen den Anführungszeichen, die Anzahl Programme ein, die Sie zeigen möchten. Die Reihenfolge wird bestimmt durch den eCPC von Ihrem Account ( Sie müssen dies in das Settings-Menü aktivieren )"
+
+#: core.php:743
+#: core.php:3255
+msgid "Shorttag"
+msgstr "Shorttag"
+
+#: core.php:746
+msgid "Naam"
+msgstr "Name"
+
+#: core.php:828
+msgid "Stap 2: Website ophalen!"
+msgstr "Schritt 2: Wählen Sie Ihre Website"
+
+#: core.php:837
+msgid "Voor bovenstaand account heb je de volgende websites bij Daisycon aangemeld. Kies nu de website waarop je deze plugin hebt ge&iuml;nstalleerd, en klik op &#39;Toevoegen&#39;."
+msgstr "In Ihr Daisycon Account haben Sie die folgenden Websites gewählt. Bitte wählen Sie die Website wo Sie das Plug-in installiert haben und klicken Sie auf 'zufügen'"
+
+#: core.php:854
+msgid "Toevoegen!"
+msgstr "Zufügen!"
+
+#: core.php:877
+msgid "Vul je gegevens even opnieuw in."
+msgstr "Bitte tragen Sie Ihre Daten nochmals ein."
+
+#: core.php:884
+msgid "Je moet even de (juiste) gegevens invullen."
+msgstr "Zuerst müssen Sie die richtigen Daten eintragen"
+
+#: core.php:935
+#: core.php:980
+msgid "Gegevens zijn bijgewerkt!"
+msgstr "Daten sind aktualisiert!"
+
+#: core.php:1044
+#: core.php:3643
+msgid "Inloggen (automatisch feeds toevoegen)"
+msgstr "Einloggen (Feeds automatisch zufügen)"
+
+#: core.php:1045
+#: core.php:1052
+#: core.php:3644
+msgid "Handmatig feeds toevoegen"
+msgstr "Feeds manuell zufügen"
+
+#: core.php:1055
+msgid "Gebruik deze functie alleen als je wil filteren in de feeds die je gebruikt. Deze optie geeft jou als gebruiker de vrijheid om zelf in het Daisyconsysteem de feeds op te halen en te filteren. Wij raden alleen meer ervaren gebruikers aan deze optie toe te passen. Gebruik anders &#39;Automatisch feeds toevoegen&#39; in het vorige tabblad."
+msgstr "Gebrauchen Sie diese Funktion nur wenn Sie Ihre Product Feeds spezifizieren / filtern möchten. Diese Option bietet Ihnen die Freiheit um selbst die Feeds aus dem Daisycon System zu holen. Sie können zB. auf eine spezifische Kategorie filtern. Wir empfelen dass nur erfahrene Benutzer diese Option gebrauchen. Andernfalls, gebrauchen Sie den automatischen Feed download auf dem anderen Tab."
+
+#: core.php:1058
+msgid "Om deze plugin te gebruiken moet je eerst aangemeld zijn als <a href=\"http://www.daisycon.com/nl/publishers/\" target=\"_blank\">publisher bij Daisycon</a>. Vul hieronder eerst je gegevens en vervolgens de feeds in. De feeds moet je uit het Daisycon systeem halen. Na het invullen van de gegevens en de feeds moet er eerst op Opslaan geklikt worden. Vervolgens moeten eerst de Programma&lsquo;s opgehaald worden en daarna de Actiecodes. De producten kan je in een keer allemaal ophalen, maar dit kan enkele uren duren. We raden je aan eerst de producten van de programma&lsquo;s die je wil gebruiken op te halen. Dit kan je doen bij \"Programma&lsquo;s\".<br /><br /> <a href=\"http://www.daisycon.com/nl/blog/wordpress_affiliate_plugin_productfeeds/\" target=\"_blank\">Klik hier voor een uitgebreide handleiding</a>."
+msgstr "Um dieses Plug-in zu gebrauchen, müssen Sie als Publisher bei Daisycon registriert sein. Bitte tragen Sie Ihre Daisycon Account Informationen hierunter ein. Die Feeds müssen Sie sich aus dem Daisycon System holen. Nachdem Sie Ihre Daten und die Feeds zugefügt haben, klicken Sie auf  'speichern'. Danach können Sie den Kontakt vom Product Feed herunterladen. Anschließend können Sie die Gutscheincodes herunterladen. Als letztes können Sie alle Produkte herunterladen. Sie können alle Programme zugleich herunterladen. Dies kann einige Stunden dauern. Wir empfelen um zuerst nur die Produkte herunterzuladen von den Programmen, die Sie benutzen wollen. Das können Sie im Menüpunkt 'Programme' machen."
+
+#: core.php:1068
+#: core.php:3668
+msgid "Stap 1: Daisycon gegevens"
+msgstr "Schritt 1: Daisycon Daten"
+
+#: core.php:1080
+msgid "E-mailadres van publisheraccount"
+msgstr "E-Mail Adresse Ihres Daisycon Publisher Account"
+
+#: core.php:1095
+#: core.php:3685
+msgid "Wachtwoord publisheraccount"
+msgstr "Password Publisher Account"
+
+#: core.php:1113
+msgid "De publishergegevens zijn nu toegevoegd. Haal nu de programma&lsquo;s op om af te ronden en aan de slag te gaan."
+msgstr "Die Publisherdaten sind jetzt zugefügt. Holen Sie sich jetzt die Programme herunter um abzurunden und zu starten."
+
+#: core.php:1122
+msgid "Programmalijst (feed met programma&#39;s)"
+msgstr "Programm Listung ( Feed mit Programme / Advertiser )"
+
+#: core.php:1134
+msgid "Productfeedlijst (feed met beschikbare productfeeds)"
+msgstr "Product Feed Listung ( Feed mit alle verfügbare Programme )"
+
+#: core.php:1148
+msgid "Actiecodelijst (feed met actiecodes)"
+msgstr "Gutscheincode Listung ( Feed mit alle verfügbare Gutscheincodes )"
+
+#: core.php:1160
+#: core.php:3514
+msgid "Verlopen actiecodes weergeven"
+msgstr "Verläufene Gutscheincodes zeigen"
+
+#: core.php:1176
+msgid "eCPC voor programmalijst gebruiken JA / NEE"
+msgstr "eCPC gebrauchen für Programm Liste (ja/nein). "
+
+#: core.php:1189
+#: core.php:3543
+msgid "Automatisch links omzetten naar Daisycon affiliatelinks"
+msgstr "Normale Links automatisch in Daiyscon Affiliate Links ändern."
+
+#: core.php:1192
+#: core.php:3546
+msgid "Lees info"
+msgstr "Infos lesen"
+
+#: core.php:1204
+msgid "Time-out producten ophalen"
+msgstr "Time-Out Produkte herunterladen"
+
+#: core.php:1204
+msgid "Tijd van de time-out tussen het producten ophalen. Standaard staat dit op 10 seconden. Het verlagen van deze tijd is op eigen risico."
+msgstr "Zeit des Time Outs zwischen die Produkte herunterladen. Standard steht diese auf 10 Sekunden. Das herabsetzen dieser Zeit geschied auf eigenes Risiko."
+
+#: core.php:1208
+msgid "seconde"
+msgstr "Sekunde"
+
+#: core.php:1209
+#: core.php:1210
+#: core.php:1211
+#: core.php:1212
+#: core.php:1213
+#: core.php:1214
+#: core.php:1215
+#: core.php:1216
+msgid "seconden"
+msgstr "Sekunden"
+
+#: core.php:1217
+msgid "seconden (default)"
+msgstr "Sekunden (standard)"
+
+#: core.php:1260
+msgid "Stap 2: Alles ophalen!"
+msgstr "Schritt 2: Alles herunterladen"
+
+#: core.php:1277
+#: core.php:1289
+#: core.php:1300
+#: core.php:3361
+#: core.php:3373
+#: core.php:3384
+msgid "Programma&lsquo;s ophalen"
+msgstr "Programme herunterladen"
+
+#: core.php:1282
+#: core.php:3366
+msgid "Druk op de button om de programma&lsquo;s waarbij je bent aangemeld op te halen."
+msgstr "Klicken Sie auf dem Button um alle Produkte von alle Programme herunterzuladen ( Bitte berücksichtigen Sie dass es einige Stunden dauern kann )."
+
+#: core.php:1293
+#: core.php:3204
+msgid "Laatste update"
+msgstr "Letzter Update"
+
+#: core.php:1302
+#: core.php:3386
+msgid "Nog niet opgehaald."
+msgstr "Noch nicht heruntergeladen."
+
+#: core.php:1307
+#: core.php:1401
+#: core.php:3391
+#: core.php:3488
+msgid "Sla eerst je programmalijst en productlijst op!"
+msgstr "Speichern Sie zuerst Ihre Programmliste und Produktliste!"
+
+#: core.php:1325
+#: core.php:1336
+#: core.php:1345
+#: core.php:1353
+#: core.php:3191
+#: core.php:3201
+#: core.php:3209
+#: core.php:3219
+#: core.php:3409
+#: core.php:3420
+#: core.php:3431
+#: core.php:3440
+msgid "Actiecodes ophalen"
+msgstr "Gutscheincodes herunterladen"
+
+#: core.php:1329
+msgid "Druk op de button om de actiecodes waarbij je bent aangemeld op te halen. "
+msgstr "Klicken Sie auf dem Button um alle Produkte von alle Programme herunterzuladen ( Bitte berücksichtigen Sie dass es einige Stunden dauern kann."
+
+#: core.php:1348
+#: core.php:3211
+#: core.php:3434
+msgid "Geen actiecodes gevonden bij de opgehaalde programma&#39;s."
+msgstr "Es wurden keine Gutscheincodes gefunden in den heruntergeladenen Programmen"
+
+#: core.php:1356
+#: core.php:1396
+#: core.php:3221
+#: core.php:3443
+#: core.php:3483
+msgid "Haal eerst je programma&#39;s op."
+msgstr "Laden Sie zuerst die Programme herunter"
+
+#: core.php:1362
+#: core.php:3228
+#: core.php:3449
+msgid "Sla eerst je actiecodelijst op!"
+msgstr "Speichern Sie zuerst Ihre Gutscheincodeliste!"
+
+#: core.php:1384
+#: core.php:1392
+#: core.php:3471
+#: core.php:3479
+msgid "Alle producten ophalen"
+msgstr "Alle Produkte hochladen"
+
+#: core.php:1388
+#: core.php:3475
+msgid "Druk op de button om alle producten van de programma&lsquo;s op te halen (Let op: dit kan enkele uren duren)."
+msgstr "Klicken Sie auf dem Button um alle Produkte von alle Programme herunterzuladen ( Bitte berücksichtigen Sie dass es einige Stunden dauern kann )."
+
+#: core.php:1423
+msgid "Vandaag"
+msgstr "Heute"
+
+#: core.php:1426
+msgid "Gisteren"
+msgstr "Gestern"
+
+#: core.php:1429
+msgid "Eergisteren"
+msgstr "Ergestern"
+
+#: core.php:1435
+msgid "om "
+msgstr "um "
+
+#: core.php:1435
+msgid " uur"
+msgstr " Uhr"
+
+#: core.php:1777
+msgid "Handmatig Producten genereren"
+msgstr "Produkte manuell generieren"
+
+#: core.php:1778
+msgid "Automatisch Producten genereren"
+msgstr "Produkte automatisch generieren"
+
+#: core.php:1783
+msgid "Genereer een shorttag door middel van de onderstaande velden. De gegenereerde shorttag is vervolgens te gebruiken in een pagina of blogpost om een lijst met producten te tonen."
+msgstr "Generieren Sie einen Shorttag über unterliegenden Feldern. Sie müssen den generierten Shorttag im HTML Ihres Blog Post oder Artikel pasten, um die Liste mit Produkte zu zeigen."
+
+#: core.php:1801
+#: core.php:1935
+msgid "Stylesheet"
+msgstr "Stylesheet"
+
+#: core.php:1805
+#: core.php:1938
+#: core.php:2883
+#: core.php:2887
+msgid "Selecteer een stylesheet..."
+msgstr "Wählen Sie ein Stylesheet..."
+
+#: core.php:1823
+msgid "Programma."
+msgstr "Programm."
+
+#: core.php:1827
+msgid "Selecteer een programma..."
+msgstr "Wählen Sie ein Programm"
+
+#: core.php:1849
+#: output.php:487
+msgid "Selecteer een categorie..."
+msgstr "Wählen Sie eine Kategorie"
+
+#: core.php:1853
+#: core.php:1866
+msgid "Optioneel"
+msgstr "Optional"
+
+#: core.php:1858
+msgid "Subcategorie"
+msgstr "Subkategorie"
+
+#: core.php:1862
+msgid "Selecteer een subcategorie..."
+msgstr "Wählen Sie eine Subkategorie"
+
+#: core.php:1877
+#: core.php:1925
+msgid "Zet * voor het woord om exact te zoeken (*voorbeeld) en spatie om op meerder woorden te zoeken (zoekwoord1 zoekwoord2)."
+msgstr "Stellen Sie * vor ein Wort um Ihre Suche exakt zu machen. ( *Vorbild) und ein Leerzeichen um mehr als ein Wort zu suchen."
+
+#: core.php:1884
+msgid "Producten zoeken"
+msgstr "Produkte suchen"
+
+#: core.php:1885
+#: core.php:1995
+msgid "Genereer shorttag"
+msgstr "Shorttag generieren"
+
+#: core.php:1899
+msgid "Zoek en sleep de producten die je op je site wil zetten in het rechtervlak. Klik daarna op \"Genereer shorttag\" om hier de shorttag te genereren die je in de HTML van je website kan plaatsen."
+msgstr "Suchen und schleppen sie die Produkte die Sie auf Ihrer Website benutzen möchten in das Viereck rechts. Klicken Sie auf Shorttag generieren, um ein  Shorttag zu generieren, dass Sie im HTML Ihrer Seite oder Blog Post stellen können."
+
+#: core.php:1909
+msgid ""
+"In dit menu kunt u zoeken in productfeeds. U hoeft dus geen producten te selecteren, maar het zoekresultaat wordt direct op uw website getoond. \n"
+"\t\t\t\t\t\tGenereer een shorttag door middel van de onderstaande velden. Plak de gegenereerde shorttag in de HTML van een pagina of blogpost."
+msgstr ""
+"Im diesem Menü können Sie in den Product Feeds suchen. Sie brauchen keine Produkte zu wählen, aber das Suchresultat wird direkt auf Ihre Website gezeigt. \n"
+"\t\t\t\t\t Generiere einen Shorttag mittels unterstehenden Feldern. Pasten Sie die generierten Shorttags in das HMTL einer Seite oder Blogpost."
+
+#: core.php:1925
+msgid "Zoekterm"
+msgstr "Suchbegriff"
+
+#: core.php:1928
+msgid "Aantal producten tonen"
+msgstr "Anzahl der Produkte die Sie zeigen möchten"
+
+#: core.php:1931
+msgid "Meer producten tonen button"
+msgstr "Mehr Produkte zeigen Button"
+
+#: core.php:1954
+msgid "Selecteer programma&lsquo;s waarin u wil zoeken"
+msgstr "Wählen Sie Programme worin Sie suchen möchten"
+
+#: core.php:1980
+msgid "Sorteren op"
+msgstr "Sortieren auf"
+
+#: core.php:1984
+msgid "Alfabet"
+msgstr "Alphabetisch"
+
+#: core.php:1985
+msgid "Prijs (laag > hoog)"
+msgstr "Preis ( niedrig – hoch )"
+
+#: core.php:1986
+msgid "Prijs (hoog > laag)"
+msgstr "Preis ( hoch – niedrig )"
+
+#: core.php:1987
+msgid "Random"
+msgstr "Willkürlich"
+
+#: core.php:1996
+msgid "Voorbeeld"
+msgstr "Vorbild"
+
+#: core.php:2003
+msgid "Klik op voorbeeld om een voorbeeld te zien van de door jou gekozen instellingen. Klik daarna op \"Genereer shorttag\" om hier de shorttag te genereren die je in de HTML van je website kan plaatsen."
+msgstr "Klicken Sie auf  Vorbild um ein Vorbild zu zeigen von den Einstellungen die Sie gewählt haben. Danach klicken Sie auf 'Shorttag generieren' um ein Shorttag zu generieren, das Sie im HTML Ihrer Website stellen können."
+
+#: core.php:2095
+msgid "De voorbeeld stylesheets zijn gedownload! Deze zijn te vinden onder de namen Tabelweergave en Tegelweergave."
+msgstr "Die Vorbild Stylesheets sind heruntergeladen! Sie heißen ' Tabellendarstellung und Zeilendarstellung '"
+
+#: core.php:2843
+msgid "Succesvol opgeslagen."
+msgstr "Erfolgreich gespeichert"
+
+#: core.php:2845
+msgid "Niet opgeslagen. Je moet de stylesheet nog een naam geven."
+msgstr "Nicht gespeichert. Sie müssen das Stylesheet noch benennen"
+
+#: core.php:2858
+msgid "Door middel van Stylesheets is het mogelijk om de output van de shorttags aan te passen naar eigen voorkeur. Bij het maken en wijzigen van de stylesheets zullen de wijzigingen in de vorm van een preview zichtbaar worden."
+msgstr "Mit Stylesheets können Sie die Art wie der Output der Short Tags auf Ihrer Website gezeigt wird ändern. Wenn Sie Ihre Privilegien anfertigen oder ändern, werden die Änderungen in einem Preview gezeigt."
+
+#: core.php:2864
+msgid "Kom je er even niet meer uit? Klik op de button om alle stylesheets te verwijderen en de voorbeeld stylesheets opnieuw te laden:"
+msgstr "Bleiben Sie stecken ? Klicken Sie auf das Button um die Vorbild Stylesheets noch Mal zu laden."
+
+#: core.php:2864
+#: core.php:3623
+msgid "Terug naar begininstellingen"
+msgstr "Zurück zu den Start Einstellungen"
+
+#: core.php:2867
+msgid "We raden je aan om de voorbeeld stylesheets te gebruiken, en aan te passen naar je voorkeur."
+msgstr "Wir empfelen Sie die Vorbild Stylesheet zu benutzen und an Ihre Vorzüge anzupassen"
+
+#: core.php:2897
+msgid "Laden"
+msgstr "Laden"
+
+#: core.php:2899
+msgid "Verwijderen"
+msgstr "Löschen"
+
+#: core.php:2902
+msgid "Nieuwe stylesheet maken"
+msgstr "Neues Stylesheet"
+
+#: core.php:2916
+msgid "Naam nieuwe stylesheet"
+msgstr "Name neues Stylesheet"
+
+#: core.php:2926
+msgid "Je bewerkt nu:"
+msgstr "Du bearbeiten jetzt:"
+
+#: core.php:2941
+msgid "Tabelweergave"
+msgstr "Tabelle"
+
+#: core.php:2942
+msgid "Tegelweergave"
+msgstr "Zeilendarstellung"
+
+#: core.php:2949
+msgid "Float (naast elkaar of onder elkaar)"
+msgstr "Schweben ( neben einander oder unter einander )"
+
+#: core.php:2959
+msgid "Achtergrondkleur"
+msgstr "Hintergrund Farbe"
+
+#: core.php:2967
+msgid "Border"
+msgstr "Begrenzung"
+
+#: core.php:2975
+msgid "Tekstkleur"
+msgstr "Text Farbe"
+
+#: core.php:2983
+msgid "Hoogte in pixels (tabel)"
+msgstr "Höhe in Pixel ( Tabelle )"
+
+#: core.php:2991
+msgid "Breedte in pixels (tabel)"
+msgstr "Weite in Pixel ( Tabelle )"
+
+#: core.php:2999
+msgid "Grootte product image in pixels"
+msgstr "Größe der Produktabildung in Pixel"
+
+#: core.php:3007
+msgid "Uitlijnen / align"
+msgstr "Ausrichten"
+
+#: core.php:3011
+#: widgets/newPrograms.php:39
+#: widgets/randomPrograms.php:40
+#: widgets/topPrograms.php:40
+msgid "Links"
+msgstr "Links"
+
+#: core.php:3012
+msgid "Midden"
+msgstr "Mitte"
+
+#: core.php:3013
+#: widgets/newPrograms.php:41
+#: widgets/randomPrograms.php:42
+#: widgets/topPrograms.php:42
+msgid "Rechts"
+msgstr "Rechts"
+
+#: core.php:3019
+#: daisycon.php:51
+msgid "Instellingen"
+msgstr "Einstellungen"
+
+#: core.php:3025
+msgid "Adverteerder logo tonen"
+msgstr "Advertiser Logo zeigen"
+
+#: core.php:3033
+msgid "Link tekst (leeglaten is geen tekst)"
+msgstr "Link Text ( Lehrfeld ist kein Text )"
+
+#: core.php:3038
+msgid "Programmanaam voor tekst"
+msgstr "Programm / Advertiser Name vor dem Text"
+
+#: core.php:3039
+msgid "Programmanaam na tekst"
+msgstr "Programm / Advertiser Name nach dem Text"
+
+#: core.php:3040
+msgid "Programmanaam niet weergeven"
+msgstr "Programm/ Advertiser Name nicht zeigen"
+
+#: core.php:3046
+msgid "Button om linktekst heen zetten"
+msgstr "Button rundum Link Text stellen"
+
+#: core.php:3054
+#: core.php:3117
+msgid "Button kleur"
+msgstr "Button Farbe"
+
+#: core.php:3062
+msgid "Button borderkleur"
+msgstr "Button Begrenzung Farbe"
+
+#: core.php:3070
+msgid "Button tekstkleur"
+msgstr "Button Text Farbe"
+
+#: core.php:3079
+msgid "Prijs"
+msgstr "Preis"
+
+#: core.php:3085
+msgid "Prijs tonen (ja/nee)"
+msgstr "Preis zeigen ( ja / nein )"
+
+#: core.php:3093
+msgid "Button om prijs heen zetten"
+msgstr "Button rundum Preis stellen"
+
+#: core.php:3101
+msgid "Tekst voor prijs"
+msgstr "Text vor dem Preis"
+
+#: core.php:3111
+msgid "Meer producten tonen button (optioneel)"
+msgstr "Mehr Produkte zeigen Button (optional)"
+
+#: core.php:3125
+msgid "Button testkleur"
+msgstr "Button Text Farbe"
+
+#: core.php:3133
+msgid "Button tekst"
+msgstr "Button Text"
+
+#: core.php:3141
+msgid "Stylesheet opslaan"
+msgstr "Stylesheet Speichern"
+
+#: core.php:3161
+msgid "Hier komt het voorbeeld van de stylesheet"
+msgstr "Hier zeigen wir Sie ein Vorbild eines Stylesheets"
+
+#: core.php:3177
+#: daisycon.php:55
+msgid "Actiecodes"
+msgstr "Gutscheincodes"
+
+#: core.php:3178
+msgid "Plak de shorttag(s) in een pagina of blogpost. De actiecode wordt vervolgens automatisch op deze pagina getoond. Klik <a href=\"admin.php?page=Daisycon\" alt=\"Daisycon gegevens\">hier</a> om in te stellen wat er moet gebeuren als een actiecode verlopen is."
+msgstr "Pasten Sie den/die Short Tag(s) im HTML einer Seite oder Blogpost. Der Gutscheincode wird automatisch auf dieser Seite gezeigt. Klicken Sie hier um die Einstellungen, mit Bezug auf was passiert wenn ein Gutscheincode abläuft, anzupassen."
+
+#: core.php:3194
+#: core.php:3413
+msgid "Druk op de button om de actiecodes waarbij je bent aangemeld op te halen."
+msgstr "Klicke auf dem Button um die Gutscheincodes wofür du angemeldet bist herunter zu laden."
+
+#: core.php:3240
+msgid "Adverteerder"
+msgstr "Advertiser / Programm"
+
+#: core.php:3243
+msgid "Omschrijving"
+msgstr "Beschreibung"
+
+#: core.php:3246
+msgid "Geldig van"
+msgstr "Gültig von"
+
+#: core.php:3249
+msgid "Geldig tot"
+msgstr "Gültig bis"
+
+#: core.php:3252
+msgid "Actiecode"
+msgstr "Gutscheincode "
+
+#: core.php:3269
+msgid "Geen einddatum"
+msgstr "Kein Enddatum"
+
+#: core.php:3346
+msgid "Stap 3: Alles ophalen!"
+msgstr "Schritt 3: Alles herunterladen"
+
+#: core.php:3377
+#: core.php:3424
+msgid "Laatste update:"
+msgstr "Letzter Update:"
+
+#: core.php:3505
+msgid "Optionele instellingen"
+msgstr "Zusätzliche Einstellungen"
+
+#: core.php:3514
+msgid "Dit punt heeft alleen betrekking tot het menu Actiecodes"
+msgstr "Dieser Punkt bezieht sich nur auf dem Menü Gutscheincodes"
+
+#: core.php:3518
+msgid "Niet weergeven"
+msgstr "Nicht zeigen"
+
+#: core.php:3519
+msgid "Wel weergeven, maar met melding"
+msgstr "Zeigen aber eine Warnung geben"
+
+#: core.php:3530
+msgid "eCPC voor programmalijst gebruiken JA / NEE (Nadat je dit hebt aangevinkt moet je opnieuw de programma&#39;s ophalen.)"
+msgstr "eCPC gebrauchen für Programm Liste (ja/nein). (nachdem Sie diese Option gewählt haben, müssen Sie das Programm nochmal herunterladen)"
+
+#: core.php:3530
+msgid "Dit punt heeft betrekking tot de volgorde waarop programmas in een categorie worden getoond op je site. eCPC wordt opnieuw uitgerekend wanneer je de programmas update."
+msgstr "Dieser Punkt bezieht sich nur auf der Reihenfolge worauf Programme in einer Kategorie auf deiner Website gezeigt werden. eCPC wird erneut berechnet wenn du das Programm aktualisierst."
+
+#: core.php:3557
+msgid "Sneller producten ophalen? Hier kunt u de time-out verkorten. Let op! Dit is alleen voor snelle servers en op eigen risico."
+msgstr "Schneller Produkte herunterladen? Hier können Sie das Time-Out verkürzen. Achtung! Dies ist nur für schnelle Server und auf eigenem Risiko."
+
+#: core.php:3557
+msgid "De time-out is de tijd die er zit tussen het ophalen van 500 producten. Standaard staat dit op 10 seconden, waardoor het ook werkt op trage servers."
+msgstr "Das Time-Out is die Zeit zwischen das hochladen von 500 Produkte. Standard beträgt diese Zeit 10 Sekunden, wodürch es auch auf langsame Server funktioniert."
+
+#: core.php:3623
+msgid "Wil je opnieuw beginnen? Klik alleen op de volgende button als je terug wilt gaan naar de begininstellingen:"
+msgstr "Möchten Sie von vorne anfangen? Klicken Sie auf das Button hierunter um zu Ihren Starteinstellungen züruck zu kehren."
+
+#: core.php:3652
+msgid "<h2>Starten met de Daisycon plugin</h2>"
+msgstr "<h2>Starten mit das Daisycon Plug-in</h2>"
+
+#: core.php:3655
+msgid "intro-text"
+msgstr "<div style=\"margin-right: 20px;\">Dies ist das Plug-in vom Affiliate-Marketing Netzwerk Daisycon. Gebrauchen Sie dieses Plug-in um automatisch alle Daisycon Advertiser und ihre Product Feeds und Gutscheincodes in Ihre WordPress Website hochzuladen<br><br>Um dieses Plug-in zu gebrauchen, müssen Sie als Publisher bei Daisycon registriert sein. Hierunter können Sie Ihre Daisycon Account Informationen eintragen.<br><br>Nachdem Sie Ihre Account Informationen eingetragen haben, wird das Plug-in automatisch die Websites (Medien) herunterladen, die Sie an Ihre Daisycon Account zugefügt haben. Wählen Sie die Website wo Sie dieses Plug-in installiert haben.<br /><br /></div>"
+
+#: core.php:3677
+msgid "E-mail"
+msgstr "E-Mail Adresse Ihres Daisycon Publisher Account"
+
+#: core.php:3703
+#: core.php:3707
+msgid "Volgende stap"
+msgstr "Nächster Schritt"
+
+#: daisycon.php:53
+msgid "Producten"
+msgstr "Produkte"
+
+#: daisycon.php:54
+msgid "Stylesheets"
+msgstr "Stylesheets"
+
+#: output.php:57
+msgid "Stylesheet is bijgewerkt!"
+msgstr "Stylesheet wurde aktualisiert!"
+
+#: output.php:417
+msgid "Producten gevonden:"
+msgstr "Produkte gefunden:"
+
+#: output.php:420
+msgid "Wees specifieker in je zoekopdracht"
+msgstr "Seihen Sie bitte spezifischer in Ihrem Suchauftrag"
+
+#: output.php:586
+msgid "Helaas zijn er geen producten gevonden!"
+msgstr "Leider wurden keine Produkte gefunden!"
+
+#: cron/API.php:97
+msgid "Programma&acute;s zijn opgehaald!"
+msgstr "Programme wurden heruntergeladen"
+
+#: cron/API.php:116
+msgid "Vul eerst je gegevens in!"
+msgstr "Tragen Sie erst Ihre Daten ein!"
+
+#: cron/API.php:135
+msgid "URL haalt hij niet (404)"
+msgstr "Error 404"
+
+#: cron/API.php:145
+msgid "URL haalt hij niet (500)"
+msgstr "Error 500"
+
+#: cron/importActioncodes.php:42
+msgid "Vul eerst de Actiecode Feed in."
+msgstr "Tragen Sie erst den Gutscheincode Feed ein."
+
+#: cron/importActioncodes.php:50
+msgid "Actiecodes zijn opgehaald!"
+msgstr "Gutscheincodes wurden heruntergeladen!"
+
+#: cron/importProducts.php:19
+#: cron/importProducts.php:97
+#: cron/importProducts.php:142
+#: cron/importProducts.php:156
+msgid "Even geduld...."
+msgstr "Ein Moment Geduld..."
+
+#: cron/importProducts.php:21
+msgid "De producten voor dit programma worden opgehaald. Afhankelijk van het aantal producten kan dit tot een half uur duren. In de tussentijd is het noodzakelijk om deze pagina open te laten staan."
+msgstr "Die Produkte für dieses Programm wurden heruntergeladen. Produktanzahl abhängig kann dies bis zu einer halben Stunde dauern. In der Zwischenzeit müssen Sie diese Seite geöffnet lassen."
+
+#: cron/importProducts.php:29
+msgid "Producten opgehaald/totaal aantal producten"
+msgstr "Produkte heruntergeladen/gesammtanzahl Produkte"
+
+#: cron/importProducts.php:97
+msgid "Even geduld de productfeed wordt nu opgehaald."
+msgstr "Ein Moment Geduld, der Product Feed wird heruntergeladen."
+
+#: cron/importProducts.php:123
+msgid "De producten zijn succesvol opgehaald"
+msgstr "Die Produkte wurden erfolgreich heruntergeladen."
+
+#: cron/importProducts.php:142
+msgid "Even geduld de productfeed wordt nu opgehaald"
+msgstr "Ein Moment Geduld, der Product Feed wird jetzt heruntergeladen"
+
+#: widgets/newPrograms.php:13
+msgid "Deze widget toont de nieuwste affiliateprogramma&rsquo;s. Je kan zelf bepalen hoeveel programma&rsquo;s je toont."
+msgstr "Dieses Widget zeigt die neuesten Affiliate Programme. Sie können selbst entscheiden , wie viele Programme Sie zeigen möchten"
+
+#: widgets/newPrograms.php:14
+msgid "Daisycon nieuwste"
+msgstr "Neuesten Daisycon"
+
+#: widgets/newPrograms.php:23
+#: widgets/newPrograms.php:27
+#: widgets/randomPrograms.php:24
+#: widgets/randomPrograms.php:28
+#: widgets/topPrograms.php:24
+#: widgets/topPrograms.php:28
+msgid "Titel"
+msgstr "Titel"
+
+#: widgets/newPrograms.php:25
+#: widgets/randomPrograms.php:26
+#: widgets/topPrograms.php:26
+msgid "Aantal programma&rsquo;s"
+msgstr "Anzahl der Programme / Advertiser"
+
+#: widgets/newPrograms.php:29
+#: widgets/randomPrograms.php:30
+#: widgets/topPrograms.php:30
+msgid "Aantal characters"
+msgstr "Anzahl der Charakter"
+
+#: widgets/newPrograms.php:33
+#: widgets/randomPrograms.php:34
+#: widgets/topPrograms.php:34
+msgid "Plaatje"
+msgstr "Abbildung"
+
+#: widgets/newPrograms.php:35
+#: widgets/randomPrograms.php:36
+#: widgets/topPrograms.php:36
+msgid "Grootte"
+msgstr "Größe"
+
+#: widgets/randomPrograms.php:13
+msgid "Deze widget toont willekeurige programma&rsquo;s. Iedere keer als de pagina wordt vernieuwd worden andere programma&rsquo;s getoond. Je kan zelf bepalen hoeveel programma&rsquo;s je toont."
+msgstr "Dieses Widget zeigt auf Willkür generierte Programme / Advertiser. Sie können selbst entscheiden wie viele Programme Sie zeigen möchten"
+
+#: widgets/randomPrograms.php:14
+msgid "Daisycon random"
+msgstr "Willkürgenerator Funktion"
+
+#: widgets/topPrograms.php:13
+msgid "Deze widget toont je beste programma&rsquo;s op basis van je eigen eCPC. Je kan zelf bepalen hoeveel programma&rsquo;s je toont."
+msgstr "Dieses Widget zeigt die meist geliebten Affiliate Programme, basiert auf Ihr persönliches eCPC. Sie können selbst entscheiden wie viele Programme Sie zeigen möchten"
+
+#: widgets/topPrograms.php:14
+msgid "Daisycon populairste"
+msgstr "Meist geliebt Daisycon"
+
+#: widgets/listProducts.php:13
+msgid "Deze widget toont producten aan de hand van de opgegeven zoekterm. Je kan zelf bepalen hoeveel producten je toont."
+msgstr "Dieses Widget zeigt Produkte basiert auf Ihrem Suchauftrag. Sie können selbst entscheiden wie viele Programme Sie zeigen möchten."
+
+#: widgets/listProducts.php:14
+msgid "Daisycon producten"
+msgstr "Daisycon Produkte"
+
+#: widgets/listProducts.php:25
+#: widgets/listProducts.php:27
+msgid "Product"
+msgstr "Produkt"
+
+#: widgets/listProducts.php:29
+msgid "Aantal"
+msgstr "Anzahl"
+
+#: widgets/listProducts.php:31
+msgid "Product afmetingen in pixels"
+msgstr "Produkt Abbildungsgröße in Pixel"
+
+#: widgets/listProducts.php:35
+msgid "Productnaam"
+msgstr "Produkt"
+
+#~ msgid "String to translate."
+#~ msgstr "String to translate."
